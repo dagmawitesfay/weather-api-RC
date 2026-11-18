@@ -1,6 +1,7 @@
 # Weather API App
 
 ![Weather API App](./image/weather.png)
+https://dagmawitesfay.github.io/weather-api-RC/
 
 A lightweight JavaScript project that fetches current weather information for a chosen city and country using the OpenWeatherMap API. The app displays the temperature, perceived temperature, humidity, wind speed, weather description, and an icon representing the current conditions.
 
